@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/kdbotz/Lucifer",
-    "repository": "https://github.com/kdbotz/Lucifer",
+    "website": "https://github.com/meiranbot/Lucifer",
+    "repository": "https://github.com/meiranbot/Lucifer",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -91,7 +91,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
